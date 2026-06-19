@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Notification bell icon">
+  <path
+    d="M120 58v12"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="14"
+    stroke-linecap="round"
+  />
+  <path
+    d="M72 162c14-22 18-37 19-67 1-34 23-56 59-56s58 22 59 56c1 30 5 45 19 67H72Z"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="18"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <path
+    d="M98 186c5 13 16 21 29 21s24-8 29-21"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="18"
+    stroke-linecap="round"
+  />
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Messages icon">
+  <path
+    d="M77 74h86c24 0 39 15 39 39v29c0 24-15 39-39 39h-34l-43 32v-32h-9c-24 0-39-15-39-39v-29c0-24 15-39 39-39Z"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="18"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+</svg>
